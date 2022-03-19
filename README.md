@@ -6,7 +6,7 @@ Onde parei?
 
 1º video: https://www.youtube.com/watch?v=_yolPPGtySM&t=92s
 
-Próximo passo: Configurando a camada service (44:22)
+Próximo passo: Configurando as rotas (51:39)
 
 ## Preview
 
